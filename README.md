@@ -1,57 +1,38 @@
-# FAIR Data 101
+# Overview
 
-This repository contains most of the material developed for the Australian Research Data Commons' FAIR Data 101 virtual course which was run twice in 2020.
-These are both outlined below.
+This repository contains the material developed for the Australian Research Data Commons' FAIR Data 101 virtual course which was run twice in 2020. 
+This material now stand as self-guided from version 3, last updated in June 2021.
 
-The materials developed for FAIR Data 101 will remain available
-on this [ARDC github repository](https://github.com/au-research/FAIR-data-101-training/).
+## Why FAIR?
+FAIR stands for **F**indable, **A**ccessible, **I**nteroperable and **R**eusable. 
 
-Every effort is made to ensure things and activities remain
-current, so please check out [how to contribute](CONTRIBUTING.md) if you have any suggestions or corrections
-to submit.
+Making research data more FAIR provides a range of benefits to the wider research community by enabling future researchers to publish, share, cite and reuse research data. The [FAIR Principles](https://doi.org/10.1038/sdata.2016.18) put specific emphasis on enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals. Also note the FAIR Principles are aspirational and generic. 
 
-## FAIR Data 101 
-Duration: 11 May to 26 June 2020.
+## FAIR Data 101 Self-guided
+The third version of this online course stands as a self-guided material. The total time commitment for participants is minimum 6 hours, only activities and quizzes, and optional 12 extra hours to watch presentation and Q&A discussions. Read the short description of contents and how the course can be run in the [FAIR-101-v3](./fair-101-v3.md).
 
-The first run was the debut of the [ARDC's Course Code of Conduct](https://tiny.cc/code-conduct), inspired
+### Past versions 
+
+#### FAIR Data 101 Express
+The second version of this online course was delivered between 7 September to 2 October 2020. The total time commitment for participants was 12 hours over 4 weeks. Read the short description of contents and how the course can be run in the [FAIR-101-v2](./fair-101-v2.md).
+
+#### FAIR Data 101
+The first version of this online course was delivered between 11 May to 26 June 2020. The total time commitment for participants was 16 hours over 8 weeks. Read the short description of contents and how the course can be run in the [FAIR-101-v1](./fair-101-v1.md). 
+
+## Learning objectives
+* Discuss the concept of FAIR data and its application in research
+* Articulate drivers, barriers, challenges and opportunities for enabling FAIR data
+* Refer to hands-on experience with techniques, services and tools (particularly those offered by ARDC) for making data FAIR
+* Identify best-practice examples and benefits of FAIR data management
+
+## Contributing
+The FAIR Data 101 materials will remain available
+on this ARDC github repository [**FAIR-data-101-training**](https://github.com/au-research/FAIR-data-101-training/). Every effort is made to ensure things and activities remain current, so please check out [how to contribute](CONTRIBUTING.md) if you have any suggestions or corrections to submit.
+
+All individuals part-taking in this course are encourage to follow the [ARDC's Course Code of Conduct](https://tiny.cc/code-conduct), inspired
 by the [Carpentries' Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
-The course is divided into four modules, one for each of the four FAIR foundational principles: [Findable](/1-findable),
-[Accessible](/2-accessible), [Interoperable](/3-interoperable), [Reusable](/4-reusable)
-
-During the original run, each module took two weeks and consisted of:
-* Two webinars
-* A number of small group [community discussions](course-resources/community-discussion-factsheet.md)
-* Activities
-* A quiz.
-
-The FAIR Data 101 virtual course was presented by the ARDC in 2020. 
-Eighty people participated in this multimodal course over eight weeks.
-Each two-week module covered one of the four FAIR principles: Findable, Accessible,
-Interoperable and Reusable.
-
-In the first week of each module participants watched 
-two 45-minute live webinars, and in the second week they took part in a 
-[community discussion sessions](course-resources/community-discussion-factsheet.md) (up to 16 participants per discussion group). These were small groups (less than 20 people) on Zoom, and included 2 ARDC staff to facilitate and support.
-
-During each module participants also completed a set of activities and a quiz in their own time. 
-The total time commitment for participants was 10 hours over 8 weeks.
-
-After each webinar or community discussion, a short survey was distributed to catch any remaining questions from participants which weren't addressed in the preceeding session. These were built into a rolling FAQ document which was updated and circulated to participants. 
-
-The course was supported by a free Slack workspace, which allowed participants to ask questions to one 
-another as well as the course's presenters. This also served as a place to make professional introductions and network nationally with colleagues. All participants were removed from the workspace after the course finished.
-
-## FAIR Data 101 Express
-Duration: 7 September to 2 October 2020.
-
-For the second round of this course, we extended the participant's time commitment per week to 3 hours (total 12 hours), shortening the overall duration (4 weeks), and replaced the community discussions with 1 live Q&A webinar per week with an expert panel from ARDC staff and partner organisations. 
-
-Each module ran for 1 week, and consisted of
-* 2 pre-recorded webinars (hosted on ARDC's YouTube channel)
-* Activity sheet (hosted on GitHub website)
-* Quiz (Survey Monkey)
-* 1 live Q&A webinar with an expert panel (GoToWebinar)
-* FAQ document built from questions arising in the post webinar survey.
-
-The Slack workspace was used again; and was kept open for a further two weeks after the end of the course. 
+## Licence
+All content of the ARDC FAIR data 101 is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence. 
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by.png" height="20"/></a>
+The [licence](./LICENCE.md) is also in this repo.

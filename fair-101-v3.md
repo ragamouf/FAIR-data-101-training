@@ -1,6 +1,6 @@
 ---
-title: FAIR training resources
-permalink: /
+title: FAIR Data 101 Selfguided
+permalink: /fair-101-v3
 ---
 
 Welcome to the Australian Research Data Commons' *FAIR Data 101* self-guided materials v3!

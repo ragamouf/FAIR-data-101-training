@@ -3,8 +3,9 @@ title: Findable activities
 permalink: /findable/activities
 ---
 
-## Connect
-Join the FAIR Data 101 Express Slack workspace (using the link emailed to you) if you have not yet had the opportunity to do so.
+## Overview
+
+Feel free to choose one or more of the activities below to pursue. 
 
 ## Read
 Read the article where it all began: the FAIR Guiding Principles were first 
@@ -80,6 +81,7 @@ Answer the following questions:
     1. Has more than 100 downloads
     1. Has more than 150 views
     1. Is linked to more than 1 version
+1. Navigate to the principles page and read about how the [Zenodo repository](https://about.zenodo.org/principles/) responds to the FAIR principles. How many of these resonate with the services your organisation provides?
 
 ### Hunt 5 
 

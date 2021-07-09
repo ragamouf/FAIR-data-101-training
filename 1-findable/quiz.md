@@ -1,11 +1,9 @@
-## Findable Quiz
+---
+title: Findable quiz
+permalink: /findable/quiz
+---
 
-The answers to this quiz can be found in the FAIR Data 101 webinars and activities.
-
-You can retake this quiz after submitting it by opening the quiz again using your unique link. You can retake the quiz as many times as you would like up until the last day of the course. Your final answers when the quiz closes will be the ones used to determine your score. 
-
-If you score greater than 50% correct in all four quizzes by the end of the course, you will receive a FAIR Data 101 sticker.  
-
+This file includes the quiz questions and correct answers, and is optimised for a multiple choice or multiple checkbox question format. You can use this file to migrate the questions and answers into a quiz platform of your own choosing.
 
 ### 1. Which one of these is *not* a core aspect of FAIR?
 - [ ] Findable
@@ -23,7 +21,8 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 - [ ] To make sensitive data openly accessible
 - [ ] To force researchers to share research data
 
-### 3. In which discipline-focussed data repository can you find the data for Andrei Korostelev et al. (2007) Interactions and dynamics of the Shine–Dalgarno helix in the 70S ribosome, Proceedings of the National Academy of Sciences, 104 (43) 16840-16843; DOI:[10.1073/pnas.0707850104](https://doi.org/10.1073/pnas.0707850104)?
+### 3. In which discipline-focussed data repository can you find the data for Andrei Korostelev et al. (2007)?
+Interactions and dynamics of the Shine–Dalgarno helix in the 70S ribosome, Proceedings of the National Academy of Sciences, 104 (43) 16840-16843; DOI:[10.1073/pnas.0707850104](https://doi.org/10.1073/pnas.0707850104)?
 
 - [ ] GenBank
 - [x] Protein Databank
@@ -45,6 +44,7 @@ If you score greater than 50% correct in all four quizzes by the end of the cour
 - [x] Unambiguously identify data and metadata
 - [x] Continue to operate for the foreseeable future
 - [ ] Take the form of hyperlinks
+
 
 ### For each of the components of the research lifecycle in questions 6-10, select the most appropriate persistent identifier (PID):
 
